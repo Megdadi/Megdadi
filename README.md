@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Megdadi
 - 👀 I’m interested in machine learning and deep learning
-- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on gethub 
 - 📫 memegdadi@gmail.com
 
